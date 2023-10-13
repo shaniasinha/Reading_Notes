@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4041ba47952ed738",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Economics for the future – Beyond the superorganism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62dfd03699de1ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Economics for the future – Beyond the superorganism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#efficiency",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Papers/Economics for the future – Beyond the superorganism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Papers/Economics for the future – Beyond the superorganism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Papers/Economics for the future – Beyond the superorganism.md"
               }
             }
           }
@@ -146,6 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c056b5e50a6db24f",
-  "lastOpenFiles": []
+  "active": "62dfd03699de1ab8",
+  "lastOpenFiles": [
+    "Books/How to take smart notes (Zettelkasten).md",
+    "Papers/Economics for the future – Beyond the superorganism.md",
+    "README.md",
+    "Misc",
+    "Papers",
+    "Books"
+  ]
 }

@@ -9,6 +9,8 @@
 This project started in the late hours of 12 October, 2023. The author is currently on a gap (unintentionally but she wants to make it intentional). Although she knew how easily time slips from one's hands, it is more obvious to her now. Days can pass and the only activity the author partakes in is watching YouTube, Netflix and/or going to the gym (apart from 'basic life stuff'). 
 
 ### Plan:
+Read books and papers. Write key points and learnings, along with any personal insight (silly or not).
 
+---
 
 **P.S.:** It is kind of fun writing about myself in third person. I see why people do it on LinkedIn now. How seemingly self-important! I need some of that confidence right now.
